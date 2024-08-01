@@ -4621,10 +4621,10 @@
     "@typescript-eslint/types" "4.30.0"
     eslint-visitor-keys "^2.0.0"
 
-"@uniswap/default-token-list@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/@uniswap/default-token-list/-/default-token-list-2.1.0.tgz"
-  integrity sha512-Cd2CrtZ+rNk55txvO76EEZRWOyojX+YyY0xxVjiMN00Y9nKDCftYoUNvwy9d+VuTySYjyCAVUef4PdcongZAPg==
+"@uniswap/default-token-list@^12.9.0":
+  version "12.9.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-12.9.0.tgz#e0ce2b22a824a9e23fc55bb844bc70e64b5dd05a"
+  integrity sha512-0nLq46BWtRgsEItT7+9fygdMHeVQibIBGyiiDDrKWMXZJJBMMhB8L04meUvC44YVz7K3NZz9Yi4zxO4BNChSIw==
 
 "@uniswap/governance@^1.0.2":
   version "1.0.2"
